@@ -8,4 +8,4 @@ We have Policy Profile Variables and Customer Profile Variables
 
 A detailed Explanatory Data Analysis is done to identify what can be done by the companies to improve their business.
 
-Prediction models are created using algorithms such as linear regression and polynomial regression.
+Prediction models are created using algorithms such as linear regression and polynomial regression in R Programming language.
